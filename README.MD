@@ -1,13 +1,13 @@
-# Name: Laravel View Cache Cleaner
-# Short name: LVCC v1.0
-# Version: 1.0.0
-# Date: 12 March 2017
+__Name:__ Laravel View Cache Cleaner
+__Short name:__ LVCC v1.0
+__Version:__ 1.0.0
+__Date:__ 12 March 2017
 
-# Author: Dastan Akhmetov
-# Email: hello@hophmahn.com
-# License: Free
+__Author:__ Dastan Akhmetov
+__Email:__ hello@hophmahn.com
+__License:__ Free
 
-# Description:
+__Description:__
 
 This shell script clears the views of Laravel Application
 by watching file changes in the project.
