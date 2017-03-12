@@ -19,7 +19,7 @@
 # until it replaces the old view cache with the new one.
 # That is why I decided to create a small shell script which removes
 # all the generated php cache files, so after removing it, Laravel
-# could generate a new templates then respond with to the browser.
+# could generate a new templates then respond with them to the browser.
 # 
 # For best practice, you can use it with PhpStorm's File Watcher or
 # any of your choice.
