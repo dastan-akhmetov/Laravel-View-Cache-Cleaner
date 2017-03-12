@@ -1,10 +1,16 @@
 __Name:__ Laravel View Cache Cleaner
+
 __Short name:__ LVCC v1.0
+
 __Version:__ 1.0.0
+
 __Date:__ 12 March 2017
 
+
 __Author:__ Dastan Akhmetov
+
 __Email:__ hello@hophmahn.com
+
 __License:__ Free
 
 __Description:__
@@ -25,9 +31,10 @@ You only have to provide a path to the cache folder as an argument.
 
 Make the script executable by running: 
 
-chmod +x Laravel_View_Cache_Cleaner.sh
+__chmod +x Laravel_View_Cache_Cleaner.sh__
+
 
 Example: 
 
-./Laravel_View_Cache_Cleaner.sh /var/www/{Laravel}/storage/framework/views
+__./Laravel_View_Cache_Cleaner.sh /var/www/{Laravel}/storage/framework/views__
 
